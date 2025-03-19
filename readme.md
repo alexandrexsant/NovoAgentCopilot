@@ -2,4 +2,4 @@
 
 -Os agentes podem ser treinados por meio de exemplos e dados específicos, o que permite aprimorar sua capacidade de resposta e aumentar a precisão de suas ações. O treinamento contínuo permite que o agente se adapte melhor aos requisitos do ambiente em que está inserido, tornando-o cada vez mais eficaz na execução de suas tarefas.
 
-Portanto, a criação de agentes do Copilot envolve a configuração de sua lógica operacional, a integração com sistemas externos e o treinamento para otimização de sua performance. O objetivo é criar um agente inteligente e autônomo que possa facilitar a realização de tarefas complexas de maneira eficiente e automatizada."
+-Portanto, a criação de agentes do Copilot envolve a configuração de sua lógica operacional, a integração com sistemas externos e o treinamento para otimização de sua performance. O objetivo é criar um agente inteligente e autônomo que possa facilitar a realização de tarefas complexas de maneira eficiente e automatizada."
